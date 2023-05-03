@@ -1,0 +1,1 @@
+Przy rozwiązywaniu zadania skorzystałem z Algorytmu Dijkstra, aby znaleźć najkrótszą drogę między punktami z uwzględnieniem zablokowanych skrzyżowań. Do wyświetlania skorzystałem z biblioteki Matplotlib, gdyż jej implementacja jest łatwiejsza i bardziej intuicyjna niż gnuplot przy korzystania z języka programownia Python.
